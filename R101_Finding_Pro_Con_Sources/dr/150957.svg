@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" onmouseup="{ if(window.parent.document.onmouseup) window.parent.document.onmouseup(arguments[0]);}" width="36" viewBox="0 0 36 36" id="S_ThumbDown_18_N_2x" height="36" data-name="S_ThumbDown_18_N@2x"><defs><style>
+      .fill {
+        fill: #6e6e6e;
+      }
+
+      
+    </style></defs><rect data-cppathid="10000" y="6" x="2" width="6" ry="1" rx="1" height="18" class="fill"/><path data-cppathid="10001" d="M31.077,21.89H21.11A63.859,63.859,0,0,1,22,31.08C22,32.741,20.968,34,20,34a1.839,1.839,0,0,1-2-2,11.326,11.326,0,0,0-2.516-6.258A46.35,46.35,0,0,0,10,20.958V6s2.809.033,14,0a3.946,3.946,0,0,1,3.677,2.424l5.128,10.788A1.862,1.862,0,0,1,31.077,21.89Z" class="fill"/></svg>

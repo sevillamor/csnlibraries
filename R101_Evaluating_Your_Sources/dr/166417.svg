@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" onmouseup="{ if(window.parent.document.onmouseup) window.parent.document.onmouseup(arguments[0]);}" width="36" viewBox="0 0 36 36" id="S_DeviceTV_18_N_2x" height="36" data-name="S_DeviceTV_18_N@2x"><defs><style>
+      .fill {
+        fill: #6e6e6e;
+      }
+
+      
+    </style></defs><path data-cppathid="10000" d="M35,8H19.414l6.247-6.247a.971.971,0,0,0,0-1.411,1,1,0,0,0-1.416,0L18,6.586,11.776.362a.99.99,0,0,0-1.42-.006.971.971,0,0,0,.006,1.42L16.586,8H1A1,1,0,0,0,0,9V33a1,1,0,0,0,1,1H35a1,1,0,0,0,1-1V9A1,1,0,0,0,35,8ZM30,30H4V12H30Zm4-1a1,1,0,0,1-2,0V27a1,1,0,0,1,2,0Z" class="fill"/></svg>

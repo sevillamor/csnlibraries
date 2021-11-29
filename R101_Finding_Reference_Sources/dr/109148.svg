@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" onmouseup="{ if(window.parent.document.onmouseup) window.parent.document.onmouseup(arguments[0]);}" width="36" viewBox="0 0 36 36" id="S_GraphBarVertical_18_N_2x" height="36" data-name="S_GraphBarVertical_18_N@2x"><defs><style>
+      .fill {
+        fill: #6e6e6e;
+      }
+
+      
+    </style></defs><path data-cppathid="10000" d="M26,3V30h6V3a1,1,0,0,0-1-1H27A1,1,0,0,0,26,3Z" class="fill"/><path data-cppathid="10001" d="M18,13V30h6V13a1,1,0,0,0-1-1H19A1,1,0,0,0,18,13Z" class="fill"/><path data-cppathid="10002" d="M10,21v9h6V21a1,1,0,0,0-1-1H11A1,1,0,0,0,10,21Z" class="fill"/><path data-cppathid="10003" d="M2,25v5H8V25a1,1,0,0,0-1-1H3A1,1,0,0,0,2,25Z" class="fill"/><rect data-cppathid="10004" y="32" width="34" ry="0.5" rx="0.5" height="2" class="fill"/></svg>

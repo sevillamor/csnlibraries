@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" onmouseup="{ if(window.parent.document.onmouseup) window.parent.document.onmouseup(arguments[0]);}" width="36" viewBox="0 0 36 36" id="S_Article_18_N_2x" height="36" data-name="S_Article_18_N@2x"><defs><style>
+      .fill {
+        fill: #707070;
+      }
+
+      
+    </style></defs><rect data-cppathid="10000" y="10" x="20" width="10" height="2" class="fill"/><rect data-cppathid="10001" y="18" x="20" width="10" height="2" class="fill"/><rect data-cppathid="10002" y="22" x="6" width="12" height="2" class="fill"/><rect data-cppathid="10003" y="14" x="20" width="10" height="2" class="fill"/><rect data-cppathid="10004" y="22" x="20" width="10" height="2" class="fill"/><rect data-cppathid="10005" y="10" x="6" width="12" height="10" class="fill"/><path data-cppathid="10006" d="M33,4H3A1,1,0,0,0,2,5V29a1,1,0,0,0,1,1H33a1,1,0,0,0,1-1V5A1,1,0,0,0,33,4ZM4,28V6H32V28Z" class="fill"/></svg>

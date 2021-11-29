@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" onmouseup="{ if(window.parent.document.onmouseup) window.parent.document.onmouseup(arguments[0]);}" width="36" viewBox="0 0 36 36" id="S_Portrait_18_N_2x" height="36" data-name="S_Portrait_18_N@2x"><defs><style>
+      .fill {
+        fill: #6e6e6e;
+      }
+
+      
+    </style></defs><circle data-cppathid="10000" r="3.5" cy="11" cx="18" class="fill"/><path data-cppathid="10001" d="M31,2H5A1,1,0,0,0,4,3V33a1,1,0,0,0,1,1H31a1,1,0,0,0,1-1V3A1,1,0,0,0,31,2ZM30,32H24V28a2,2,0,0,0,2-2V20a4,4,0,0,0-4-4H14a4,4,0,0,0-4,4v6a2,2,0,0,0,2,2v4H6V4H30Z" class="fill"/></svg>
